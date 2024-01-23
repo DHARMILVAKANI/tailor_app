@@ -43,3 +43,5 @@ lerna-debug.log*
 package-lock.json
 realbricks-backend*
 /.history
+
+docker-compose.yml
